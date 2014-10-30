@@ -1,0 +1,407 @@
+{
+    "mos": [
+        {
+            "name": "REALM<br />CHAIRS",
+            "x": "49",
+            "y": "119",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_01.png",
+                    "img": "img/mos_nodes/fact_img_01.jpg",
+                    "summary": "Each guild member chair is carved with various Kryptonian phrases that are unique to that particular guild."
+                }
+            ]
+        },
+		{
+            "name": "KRYPTON<br />WEAPONS",
+            "x": "48",
+            "y": "143",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_02.png",
+                    "img": "img/mos_nodes/fact_img_02.jpg",
+                    "summary": "The weapons are covered in poetry and have been passed down in each family/guild."
+                }
+            ]
+        },
+        {
+            "name": "KRYPTON<br />ARMOR",
+            "x": "39",
+            "y": "169",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_03.png",
+                    "img": "img/mos_nodes/fact_img_03.jpg",
+                    "summary": "Armor is also ancient and handed down through generations."
+                }
+            ]
+        },
+        {
+            "name": "KRYPTON<br />ARTIFACTS",
+            "x": "55",
+            "y": "178",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_04.png",
+                    "img": "img/mos_nodes/fact_img_04.jpg",
+                    "summary": "Kryptonian weapons are treated within the culture as ancient artifacts and family heirlooms; they are not mass-produced."
+                }
+            ]
+        },
+        {
+            "name": "THE<br />KRYPTON SUN",
+            "x": "55",
+            "y": "204",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_05.png",
+                    "img": "img/mos_nodes/fact_img_05.jpg",
+                    "summary": "The sun is a red dwarf star in the movie. In the comics, it was a red giant."
+                }
+            ]
+        },
+        {
+            "name": "YOU ARE<br />MY SON",
+            "x": "33",
+            "y": "207",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_06.png",
+                    "img": "img/mos_nodes/fact_img_06.jpg",
+                    "summary": "The scene where Jonathan shows Clark the spacecraft was partially inspired by the limited-series comic Superman: Secret Origin, in which young Clark tearfully says, &quot;I want to be Clark Kent. I want to be your son,&quot; to which Jonathan responds, &quot;Clark...You are my son.&quot;"
+                }
+            ]
+        },
+        {
+            "name": "THE<br />BIRTHRIGHT",
+            "x": "41",
+            "y": "229",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_07.png",
+                    "img": "img/mos_nodes/fact_img_07.jpg",
+                    "summary": "In the 2003/2004 limited series Superman: Birthright, Clark Kent travels the world not knowing his own background/heritage, while trying to use his powers to help people without revealing himself, similar to in the movie."
+                }
+            ]
+        },
+        {
+            "name": "MAINTAINING<br />THE SCOUT SHIP",
+            "x": "42",
+            "y": "252",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_08.png",
+                    "img": "img/mos_nodes/fact_img_08.jpg",
+                    "summary": "Robots have been keeping the Scout Ship running for over 20,000 years."
+                }
+            ]
+        },
+        {
+            "name": "CLARK AND<br />LOIS LANE",
+            "x": "31",
+            "y": "272",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_09.png",
+                    "img": "img/mos_nodes/fact_img_09.jpg",
+                    "summary": "Lois' scared first reaction to Clark in the Scout Ship recalls what Superman says to the reporter in their first meeting in Action Comics #1: &quot;You needn't be afraid of me. I won't harm you.&quot;"
+                }
+            ]
+        },
+        {
+            "name": "SUIT<br />PLANNING",
+            "x": "49",
+            "y": "282",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_10.png",
+                    "img": "img/mos_nodes/fact_img_10.jpg",
+                    "summary": "It took five months of careful preparation to figure out how to build the Superman suit."
+                }
+            ]
+        },
+        {
+            "name": "SUIT<br />CREATION",
+            "x": "60",
+            "y": "304",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_11.png",
+                    "img": "img/mos_nodes/fact_img_11.jpg",
+                    "summary": "Each Superman suit would require 20 different artisans from four costuming companies to create."
+                }
+            ]
+        },
+        {
+            "name": "SUIT<br />DEVELOPMENT",
+            "x": "41",
+            "y": "320",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_12.png",
+                    "img": "img/mos_nodes/fact_img_12.jpg",
+                    "summary": "To find the final suit used in the film there were various iterations created in R andD."
+                }
+            ]
+        },
+        {
+            "name": "MAN OF STEEL'S<br />FLIGHT",
+            "x": "63",
+            "y": "339",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_13.png",
+                    "img": "img/mos_nodes/fact_img_13.jpg",
+                    "summary": "When Superman flies, he's manipulating space and gravity because of the effect the sun and earth have on him."
+                }
+            ]
+        },
+        {
+            "name": "MAN OF STEEL'S<br />SPEED",
+            "x": "43",
+            "y": "353",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_14.png",
+                    "img": "img/mos_nodes/fact_img_14.jpg",
+                    "summary": "Each sonic boom = Mach speed.  (Image Courtesy of NASA)"
+                }
+            ]
+        },
+        {
+            "name": "MAN OF STEEL<br />GROWING UP",
+            "x": "55",
+            "y": "368",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_15.png",
+                    "img": "img/mos_nodes/fact_img_15.jpg",
+                    "summary": "In Superman: Earth One, Jonathan dies while Clark is still growing up, leaving the young man conflicted over how to honor his late adoptive father's wishes for how he should use his abilities."
+                }
+            ]
+        },
+        {
+            "name": "LEX<br />LUTHOR",
+            "x": "42",
+            "y": "384",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_16.png",
+                    "img": "img/mos_nodes/fact_img_16.jpg",
+                    "summary": "The LexCorp truck that drops Clark off reads &quot;Better Farming Through Science&quot;."
+                }
+            ]
+        },
+        {
+            "name": "THE ARRIVAL OF<br />THE MAN OF STEEL",
+            "x": "40",
+            "y": "404",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_17.png",
+                    "img": "img/mos_nodes/fact_img_17.jpg",
+                    "summary": "In the 2010 graphic novel Superman: Earth One volume one, Clark's first public appearance as Superman is when an invading alien force threatens to destroy Earth, as in the movie."
+                }
+            ]
+        },
+        {
+            "name": "THE LEGACY OF<br />SUPERMAN'S COLORS",
+            "x": "40",
+            "y": "424",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_18.png",
+                    "img": "img/mos_nodes/fact_img_18.jpg",
+                    "summary": "Although there have been variations through the years, the red, blue and yellow color scheme of Superman's costume dates back to the first Action Comic in 1938."
+                }
+            ]
+        },
+        {
+            "name": "FAORA<br />INTRODUCED",
+            "x": "40",
+            "y": "444",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_19.png",
+                    "img": "img/mos_nodes/fact_img_19.jpg",
+                    "summary": "The first Faora, Faora Hu-Ul, was introduced in Action Comics #471 and #472 in 1977."
+                }
+            ]
+        },
+        {
+            "name": "THE CITY OF<br />METROPOLIS",
+            "x": "40",
+            "y": "464",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_20.png",
+                    "img": "img/mos_nodes/fact_img_20.jpg",
+                    "summary": "Metropolis is an amalgam of Los Angeles, New York and Chicago, with landmark buildings removed. When rendered digitally by Double Negative, Metropolis comprised 32 square miles of CG buildings and streets."
+                }
+            ]
+        },
+        {
+            "name": "SUPERMAN MEETS<br />THE BATMAN",
+            "x": "40",
+            "y": "484",
+            "content": [
+                {	
+                	"thumb":"img/mos_nodes/fact_thumb_21.png",
+                    "img": "img/mos_nodes/fact_img_21.jpg",
+                    "summary": "A Wayne Industries satellite hints at future storylines."
+                }
+            ]
+        }
+    ],
+     
+     "history": [
+        {
+            "date": "1938",
+            "title": "First<br />Appearance",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_01.png",
+                    "img": "img/mos_nodes/dated_img_01.jpg",
+                    "summary": "The first appearance of Superman was in Action Comics #1 in June 1938."
+                }
+            ]
+        },
+        {
+            "date": "1939",
+            "title": "X-ray<br />Vision",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_02.png",
+                    "img": "img/mos_nodes/dated_img_02.jpg",
+                    "summary": "Superman first used his X-ray vision in Action Comics #11 (April, 1939)"
+                }
+            ]
+        },
+        {
+            "date": "1939",
+            "title": "Superman's father<br />Jor-El",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_03.png",
+                    "img": "img/mos_nodes/dated_img_03.jpg",
+                    "summary": "Superman's father Jor-El was first mentioned by name in 1939."
+                }
+            ]
+        },
+        {
+            "date": "1940",
+            "title": "The nemesis<br />Lex Luthor",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_04.png",
+                    "img": "img/mos_nodes/dated_img_04.jpg",
+                    "summary": "Lex Luthor's first appearance was in Action Comics #23 in April 1940."
+                }
+            ]
+        },
+        {
+            "date": "1943",
+            "title": "The Man of Steel's weakness<br />Kryptonite",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_06.png",
+                    "img": "img/mos_nodes/dated_img_06.jpg",
+                    "summary": "Kryptonite was originally introduced in 1943 in the Superman radio series."
+                }
+            ]
+        },
+        {
+            "date": "1945",
+            "title": "Flight<br />Ability",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_07.png",
+                    "img": "img/mos_nodes/dated_img_07.jpg",
+                    "summary": "Superman's flight ability was a gradual evolution. Originally he leapt an eighth of a mile but wasn't able to fly. By 1945, Superman is able to fly &quot;in the wink of an eye&quot;."
+                }
+            ]
+        },
+        {
+            "date": "1945",
+            "title": "The genesis<br />of Superboy",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_08.png",
+                    "img": "img/mos_nodes/dated_img_08.jpg",
+                    "summary": "The first tales of Superman's childhood as Superboy appeared in More Fun Comics #101 in 1945."
+                }
+            ]
+        },
+        {
+            "date": "1952",
+            "title": "Meeting<br />The Batman",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_10.png",
+                    "img": "img/mos_nodes/dated_img_10.jpg",
+                    "summary": "Superman and Batman meet for the first time in Superman #76 (1952)."
+                }
+            ]
+        },
+        {
+            "date": "1959",
+            "title": "The introduction<br />of Supergirl",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_12.png",
+                    "img": "img/mos_nodes/dated_img_12.jpg",
+                    "summary": "Supergirl arrives on earth in Action Comics #252 in 1959"
+                }
+            ]
+        },
+        {
+            "date": "1961",
+            "title": "The ultimate nemisis<br />General Zod",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_13.png",
+                    "img": "img/mos_nodes/dated_img_13.jpg",
+                    "summary": "General Zod's first appearance was in Adventure Comics #283 in 1961."
+                }
+            ]
+        },
+        {
+            "date": "1971",
+            "title": "Clark becomes<br />a reporter",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_14.png",
+                    "img": "img/mos_nodes/dated_img_14.jpg",
+                    "summary": "Clark Kent became a TV reporter in 1971."
+                }
+            ]
+        },
+        {
+            "date": "1992",
+            "title": "The death<br />of Superman",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_17.png",
+                    "img": "img/mos_nodes/dated_img_17.jpg",
+                    "summary": "Superman dies at the hands of Doomsday in Superman Volume 2, #75 (1992). He would eventually return in &quot;Reign of the Supermen!&quot; in 1993."
+                }
+            ]
+        },
+        {
+            "date": "2011",
+            "title": "Superman, the<br />Origin reimagined",
+            "content": [
+                {    
+                    "thumb":"img/mos_nodes/dated_thumb_18.png",
+                    "img": "img/mos_nodes/dated_img_18.jpg",
+                    "summary": "Superman's origin story is reimagined in &quot;The New 52&quot; (2011) which gives us his current continuity."
+                }
+            ]
+        }
+
+     
+     
+             
+    ]
+
+}
